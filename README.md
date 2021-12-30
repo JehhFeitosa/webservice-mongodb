@@ -24,8 +24,8 @@ What was done:
 
 ### Features
 
-- [] Creation, Modification, Query and Delete of Users
-- [] Creation of Post
+- [x] Creation, Modification, Query and Delete of Users
+- [x] Creation of Post
 - [] Creation of Comment
 
 
@@ -49,7 +49,7 @@ The following tools were used in the construction of the project:
 
 ### Services
 
-
+- [Payload for requests in Postman](https://grizzled-racer-225.notion.site/Web-Service-of-a-Social-Network-fba622897acd4e4b9dbf4074ed4607d9)
 
 
 
